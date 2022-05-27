@@ -1,0 +1,29 @@
+body{
+/*background: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);*/
+font-family: 'Permanent Marker';
+/*background:cover;
+background-repeat:no-repeat;*/
+background:linear-gradient(to left bottom,#1D1C1D,black,#352D08,#191919) no-repeat fixed center;
+background:stretch;
+background-repeat:no-repeat;
+}
+#jumbo{
+box-shadow:1px 1px 1px 1px #2A2A2A;
+word-spacing:2px;
+font-size:180%;
+height:auto;
+text-align:center;
+background:linear-gradient(to left bottom,#1D1C1D,black);
+color:olive;
+margin-top:30%;
+width:70%;
+margin-left:15%;
+margin-right:15%;
+}
+h1{
+color:red;
+}
+
+
+
+
